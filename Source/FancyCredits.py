@@ -1,0 +1,8 @@
+print("000 \t 000 \t 000")
+print("\\")
+print("\'")
+print("\"")
+print("\a")
+print("Before New line \n ---> New line")
+print("\t ---> Horizontal Tab")
+print("pie \t" * 10)
