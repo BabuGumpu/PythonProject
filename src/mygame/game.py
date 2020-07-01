@@ -1,5 +1,5 @@
 # Right way to import a module
-from Source.mygame.draw import *
+from src.mygame.draw import *
 
 
 def main():
